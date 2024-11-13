@@ -16,7 +16,7 @@ const renderers = {
 
 const AboutMe = () => {
   const markdownContent = `
-![Hon](/images/hon_fish.jpg)
+![Hon](./images/hon_fish.jpg)
 `;
 
   return (
