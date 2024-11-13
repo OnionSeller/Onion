@@ -16,7 +16,7 @@ const renderers = {
 
 const AboutMe = () => {
   const markdownContent = `
-![Him](/images/pink.png)
+![Him](./images/pink.png)
 `;
 
   return (
