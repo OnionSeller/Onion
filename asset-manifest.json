@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Onion/static/css/main.b80ffe39.css",
+    "main.js": "/Onion/static/js/main.3af79a4b.js",
+    "index.html": "/Onion/index.html",
+    "main.b80ffe39.css.map": "/Onion/static/css/main.b80ffe39.css.map",
+    "main.3af79a4b.js.map": "/Onion/static/js/main.3af79a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80ffe39.css",
+    "static/js/main.3af79a4b.js"
+  ]
+}
