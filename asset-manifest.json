@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Onion/static/css/main.deb81119.css",
-    "main.js": "/Onion/static/js/main.fef19dee.js",
+    "main.js": "/Onion/static/js/main.c31cde2b.js",
     "index.html": "/Onion/index.html",
     "main.deb81119.css.map": "/Onion/static/css/main.deb81119.css.map",
-    "main.fef19dee.js.map": "/Onion/static/js/main.fef19dee.js.map"
+    "main.c31cde2b.js.map": "/Onion/static/js/main.c31cde2b.js.map"
   },
   "entrypoints": [
     "static/css/main.deb81119.css",
-    "static/js/main.fef19dee.js"
+    "static/js/main.c31cde2b.js"
   ]
 }
